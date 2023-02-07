@@ -13,7 +13,6 @@ public class GreeterTest {
 	
 	private Greeter greeter = new Greeter();
 
-
 	@Test
 	public void greeterSaysHello() {
 
